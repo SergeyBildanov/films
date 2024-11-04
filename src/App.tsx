@@ -35,7 +35,7 @@ function Stars({count = 0}: Args) {
 function App() {
   return (
     <>
-    <Stars count={6} />
+    <Stars count={5} />
     </>
   )
 }
